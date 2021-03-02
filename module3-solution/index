@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+ <head>
+	<meta charset="utf-8">
+	<title>Sinosun homepage</title>
+	<link rel="stylesheet" href="module3-solution/css">
+ </head>
+
+  <body>
+  	<header>
+  		<nav id="sinosun">
+  			<div class="container">
+  			</div>
+  	</header>
+  </body>
+</html>
